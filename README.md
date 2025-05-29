@@ -12,7 +12,7 @@ File naming and size:
 
     top_10000_words.txt — ~10,000 most common words
 
-    top_2500_words.txt — ~25,000 most common words
+    top_25000_words.txt — ~25,000 most common words
 
 More details: 
 - https://en.wikipedia.org/wiki/Kabyle_language
