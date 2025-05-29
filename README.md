@@ -1,6 +1,8 @@
 Tamazight (Kabyle) Wordlist Structure.
+Kabyle (native name: Taqbaylit; sometimes written as Tamazight n Leqbayel) is a major variety of the Berber (Tamazight) languages, which are part of the larger Afroasiatic language family. It is primarily spoken by the Kabyle people in the Kabylie region of northern Algeria, but Kabyle-speaking communities also exist in other parts of Algeria and among the diaspora, especially in France and Canada.
 
-Tamazight (Kabyle) latin characters =   "abcdefghijklmnopqrstuvwxyz" + "ɛčḍǧɣḥṛṣṭẓ"
+Tamazight (Kabyle) latin characters are: "abcdefghijklmnopqrstuvwxyz" + "ɛčḍǧɣḥṛṣṭẓ"
+ISO Code 639-2: kab
 
 File naming and size:
 
@@ -14,7 +16,7 @@ More details:
 - https://en.wikipedia.org/wiki/Kabyle_language
 - https://en.wikipedia.org/wiki/Berber_languages
 - https://www.omniglot.com/writing/kabyle.php
-- ISO Codes: ISO 639-2: kab (the standard ISO code for Kabyle is kab)
+
 - Keyboard: https://www.lexilogos.com/keyboard/tamazight_latin.htm
 - Translation app: https://www.tasuqilt.com/translate/
 
