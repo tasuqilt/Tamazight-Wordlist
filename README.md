@@ -1,6 +1,6 @@
 Tamazight (Kabyle) Wordlist Structure.
 
-Tamazight (Kabyl) latin characters =   "abcdefghijklmnopqrstuvwxyz" + "ɛčḍǧɣḥṛṣṭẓ"
+Tamazight (Kabyle) latin characters =   "abcdefghijklmnopqrstuvwxyz" + "ɛčḍǧɣḥṛṣṭẓ"
 
 File naming and size:
 
