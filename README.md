@@ -5,7 +5,7 @@ Tamazight (Kabyle) latin characters are: "abcdefghijklmnopqrstuvwxyz" + "ɛčḍ
 
 ISO Code 639-2: kab
 
-Tamazight (Kabyle) Wordlist is created from open source documents such as Tatoeba and Common Voice. 
+Tamazight (Kabyle) Wordlist is created automatically from open source documents such as Tatoeba and Common Voice. 
 File naming and size:
 
     top_1000_words.txt  — ~1,000 most common words
