@@ -14,6 +14,7 @@ More details:
 - https://en.wikipedia.org/wiki/Kabyle_language
 - https://en.wikipedia.org/wiki/Berber_languages
 - https://www.omniglot.com/writing/kabyle.php
+- ISO Codes: ISO 639-2: kab (the standard ISO code for Kabyle is kab)
+- Keyboard: https://www.lexilogos.com/keyboard/tamazight_latin.htm
+- Translation app: https://www.tasuqilt.com/translate/
 
-Keyboard: https://www.lexilogos.com/keyboard/tamazight_latin.htm
-Translation app: https://www.tasuqilt.com/translate/
